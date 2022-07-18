@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "jquery": "^3.4.1",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "jsplumb": "^2.11.1",
     "node-sass": "^4.12.0",
     "sass-loader": "^7.1.0",
